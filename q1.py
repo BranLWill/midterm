@@ -11,3 +11,4 @@ def computeMinimumPayment( balance ):
         return(10)
     else:
         return(balance * 0.021)
+        
